@@ -1,0 +1,109 @@
+.main{
+	width: 960px;
+	height: 802px;
+	float: left;
+}
+
+.wlosy-chlopa{
+	display: none;
+}
+
+#check-wlosy-chlopa:checked ~ .wlosy-chlopa{
+	display: block;
+}
+
+.oczy-chlopa{
+	display: none;
+}
+
+#check-oczy-chlopa:checked ~ .oczy-chlopa{
+	display: block;
+}
+
+.brwi-chlopa{
+	display: none;
+}
+
+#check-brwi-chlopa:checked ~ .brwi-chlopa{
+	display: block;
+}
+
+.wlosy-baby{
+	display: none;
+}
+
+#check-wlosy-baby:checked ~ .wlosy-baby{
+	display: block;
+}
+
+.oczy-baby{
+	display: none;
+}
+
+#check-oczy-baby:checked ~ .oczy-baby{
+	display: block;
+}
+
+.brwi-baby{
+	display: none;
+}
+
+#check-brwi-baby:checked ~ .brwi-baby{
+	display: block;
+}
+
+.usta-baby{
+	display: none;
+}
+
+#check-usta-baby:checked ~ .usta-baby{
+	display: block;
+}
+
+.gumka{
+	display: none;
+}
+
+#check-gumka:checked ~ .gumka{
+	display: block;
+}
+
+.controlls{
+	float: right;
+}
+
+#wlosy-chlopak{
+	fill: rgba(0, 0, 0, 0);
+}
+
+#zrenice{
+	fill: rgba(0, 0, 0, 0);
+}
+
+#oczy-chlopak{
+	fill: rgba(0, 0, 0, 0);
+}
+
+#brwi-chlopak{
+	fill: rgba(0, 0, 0, 0);
+}
+
+#wlosy-dziewczyna{
+	fill: rgba(0, 0, 0, 0);
+}
+
+#oczy-dziewczyna{
+	fill: rgba(0, 0, 0, 0);
+}
+
+#usta{
+	fill: rgba(0, 0, 0, 0);
+}
+
+#brwi-dziewczyna{
+	fill: rgba(0, 0, 0, 0);
+}
+
+#gumka{
+	fill: rgba(0, 0, 0, 0);
+}
